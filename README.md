@@ -8,11 +8,11 @@
 - Express
 - Mysql
 
-### _ Weakness _
+### Weakness 
 
-- At the moment the path only the create project name path works
+- At the moment only the create project name route logic works
 
-### _ Support _
+### Support 
 
 - Anyone is welcomed to configure the other three remaining logic: `read, update, delete`
 
